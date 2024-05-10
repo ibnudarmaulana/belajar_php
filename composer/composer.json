@@ -1,0 +1,17 @@
+{
+    "name": "idarma/belajar-composer",
+    "description": "Belajar PHP Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ibnudarmaulana",
+            "email": "ibnudarmaulana@gmail.com"
+        }
+    ],
+    "require": {}
+}
